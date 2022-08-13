@@ -1,7 +1,7 @@
 name: bouncing_draggable_dialog
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: Flutter package to implement an animated Bouncing Draggable Dialog.
+version: 1.0.0
+homepage: https://github.com/aliMissaoui/Flutter-Package-Bouncing-Draggable-Dialog
 
 environment:
   sdk: ">=2.16.2 <3.0.0"

@@ -9,7 +9,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-# Animated White-Black Splash Screen
+# Animated Bouncing Draggable DIalog
 
 **Bouncing Draggable Dialog** package lets you add an animated bouncing draggable dialog to your Flutter app.
 

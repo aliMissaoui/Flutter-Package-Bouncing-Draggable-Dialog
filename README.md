@@ -17,9 +17,9 @@ and the Flutter guide for
 
 The BouncingDraggableDialog widget is built to be `a unique dialog` that can be used in your Flutter app, replacing the `default` Flutter dialog. By using the `content`, `height` and `width`properties, you can provide the content to be displayed as well as the size of the dialog.
 
-_The package will handle the animation by itself._
+The package will handle the animation by itself.
 
-//
+![package_thumb](https://user-images.githubusercontent.com/68671238/184510724-1c908e69-83fa-4485-909f-95fbbb3c63d8.png)
 
 <hr>
 
@@ -149,7 +149,11 @@ class _HomePageScreenState extends State<HomePageScreen> {
 <hr>
 
 
-//
+
+https://user-images.githubusercontent.com/68671238/184511080-e57d0539-05e4-4eb7-bc30-b2ebf6d53966.mp4
+
+
+
 
    </td>
   </tr>
@@ -159,10 +163,9 @@ class _HomePageScreenState extends State<HomePageScreen> {
 ## Next Goals
 We are working on some improvements including:
 
-- [ ] Make the app name style customizable.
-- [ ] Make the splash colors customizable.
+- [ ] Make the widget more customizable.
 
 ## Issues & Feedback
-Please file an [issue!](https://github.com/aliMissaoui/Flutter-Package-Animated-WB-Splash-Screen/issues) to send feedback or report a bug. Thank you!
+Please file an [issue!](https://github.com/aliMissaoui/Flutter-Package-Bouncing-Draggable-Dialog/issues) to send feedback or report a bug. Thank you!
 
 ```

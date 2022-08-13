@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/physics.dart';
 
@@ -22,13 +21,13 @@ class _BouncingDraggableDialogState extends State<BouncingDraggableDialog> {
       backgroundColor: Colors.transparent,
       child: DraggableCard(
           child: AnimatedContainer(
-            duration: Duration(milliseconds: 300),
+            duration: const Duration(milliseconds: 300),
             curve: Curves.fastLinearToSlowEaseIn,
             height: widget.height,
             width: widget.width,
             decoration: BoxDecoration(
               color: Colors.white,
-              borderRadius: BorderRadius.all(
+              borderRadius: const BorderRadius.all(
                 Radius.circular(5),
               ),
               boxShadow: [

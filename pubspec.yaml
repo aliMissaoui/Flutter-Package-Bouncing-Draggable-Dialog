@@ -1,6 +1,6 @@
 name: bouncing_draggable_dialog
 description: Flutter package to implement an animated Bouncing Draggable Dialog.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/aliMissaoui/Flutter-Package-Bouncing-Draggable-Dialog
 
 environment:

@@ -9,7 +9,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-# Animated Bouncing Draggable DIalog
+# Animated Bouncing Draggable Dialog
 
 **Bouncing Draggable Dialog** package lets you add an animated bouncing draggable dialog to your Flutter app.
 
@@ -29,7 +29,7 @@ The package will handle the animation by itself.
 
 ```dart
 dependencies:
-  bouncing_draggable_dialog: ^1.0.0
+  bouncing_draggable_dialog: ^1.0.2
 ```
 
 2. Import the package and use it in your Flutter App.
